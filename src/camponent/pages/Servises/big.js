@@ -1,7 +1,7 @@
-function Coffe() {
+function Big() {
   return (
-    <>
-      <img src="/coffe.png"></img>
+    <div>
+      <img src="/Background.png"></img>
       <div className="md:flex flex-col mb-10px text-center justify-center items-center  py-[329px]  mt-[-750px] hidden ">
         <h1 className="text-myRed  font-[700px] text-[36px] ">
           Lorem ipsum dolor sit amet sit amet
@@ -13,8 +13,8 @@ function Coffe() {
           aliquip ex ea commodo consequat.
         </p>
       </div>
-    </>
+    </div>
   );
 }
 
-export default Coffe;
+export default Big;

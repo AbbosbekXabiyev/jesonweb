@@ -68,7 +68,7 @@ function Inputdiv() {
         </form>
       </div>
       <div className="md:flex hidden">
-        <img src="/input1.png" />
+        <img className="rounded-[40px]" src="/input1.png" />
       </div>
     </div>
   );

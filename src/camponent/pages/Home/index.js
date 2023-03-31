@@ -9,7 +9,7 @@ import Technalogik from "./technalogik";
 function HomeRoute() {
   return (
     <Layout>
-      <div className="font-body bg-[rgb(243,242,242)]">
+      <div className="font-body bg-[rgb(243,242,242)] pb-[200px]">
         <Link />
         <Finger />
         <Technalogik />
